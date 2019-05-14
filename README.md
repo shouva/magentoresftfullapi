@@ -7,7 +7,7 @@ Terima-kasih. :-)
 
 ## How to use
 
-1. Clone this repository
+1. Clone this repository `git clone git@github.com:shouva/magentoresftfullapi.git`
 2. Copy paste config.example.json to config.json
 3. Update config.json file
 4. Run it! `go run *.go`
