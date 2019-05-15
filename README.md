@@ -1,7 +1,9 @@
 # Magento RestFull API
 
+Kami menerima [jasa bikin restful-ap dari database](https://otoritech.com/jasa-bikin-restful-api-dari-database/).
 Ini adalah contoh restful api yang kami buat dari database magento.
 Jika ingin membuat restful api dari suatu database, silahkan menghubungi kami di 082335212750, wa : [Bukhori](https://wa.me/6282335212750) atau menghubungi [Otoritech](https://otoritech.com).
+
 
 Terima-kasih. :-)
 
